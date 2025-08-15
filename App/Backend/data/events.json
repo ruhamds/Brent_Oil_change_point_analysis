@@ -1,0 +1,92 @@
+[
+  {
+    "event_name": "Gulf War (Iraq–Kuwait)",
+    "event_type": "Conflict",
+    "description": "Iraq invaded Kuwait, disrupting oil exports",
+    "date": "1990-08-02"
+  },
+  {
+    "event_name": "9/11 Terrorist Attacks",
+    "event_type": "Geopolitical",
+    "description": "Global shock with economic and political consequences",
+    "date": "2001-09-11"
+  },
+  {
+    "event_name": "US Invasion of Iraq",
+    "event_type": "Conflict",
+    "description": "Oil supply risks due to war",
+    "date": "2003-03-20"
+  },
+  {
+    "event_name": "Hurricane Katrina",
+    "event_type": "Natural Disaster",
+    "description": "US production disrupted, refining capacity affected",
+    "date": "2005-08-23"
+  },
+  {
+    "event_name": "Global Financial Crisis",
+    "event_type": "Economic Shock",
+    "description": "Demand collapse in oil due to market crash",
+    "date": "2008-09-15"
+  },
+  {
+    "event_name": "Deepwater Horizon Spill",
+    "event_type": "Environmental",
+    "description": "BP oil spill; regulatory and supply concerns",
+    "date": "2010-04-20"
+  },
+  {
+    "event_name": "Arab Spring",
+    "event_type": "Political Unrest",
+    "description": "Disruptions in North African oil production",
+    "date": "2010-12-17"
+  },
+  {
+    "event_name": "Libya Civil War",
+    "event_type": "Conflict",
+    "description": "Production halted from a major OPEC member",
+    "date": "2011-02-15"
+  },
+  {
+    "event_name": "Iran Sanctions (US withdrawal)",
+    "event_type": "Sanctions",
+    "description": "Renewed U.S. sanctions on Iranian oil exports",
+    "date": "2018-05-08"
+  },
+  {
+    "event_name": "OPEC+ Production Cuts (2016)",
+    "event_type": "OPEC Decision",
+    "description": "Coordinated production cuts to stabilize prices",
+    "date": "2016-11-30"
+  },
+  {
+    "event_name": "Saudi Aramco Drone Attack",
+    "event_type": "Conflict/Disruption",
+    "description": "Major Saudi production site attacked, supply disrupted",
+    "date": "2019-09-14"
+  },
+  {
+    "event_name": "COVID-19 Pandemic",
+    "event_type": "Global Crisis",
+    "description": "Oil demand collapsed due to lockdowns",
+    "date": "2020-03-11"
+  },
+  {
+    "event_name": "Oil Price War (Saudi-Russia)",
+    "event_type": "Economic Dispute",
+    "description": "Disagreement caused oversupply and price crash",
+    "date": "2020-03-08"
+  },
+  {
+    "event_name": "Russia-Ukraine War",
+    "event_type": "Conflict",
+    "description": "War triggered major energy supply disruptions",
+    "date": "2022-02-24"
+  },
+  {
+    "event_name": "SPR Releases (US & Allies)",
+    "event_type": "Strategic Reserve",
+    "description": "Coordinated releases to ease supply shortage",
+    "date": "2022-03-31"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "pymc_version": "5.25.1",
+  "model_type": "multiple",
+  "change_point_date": "1990-10-04",
+  "confidence_start": "1993-11-30",
+  "confidence_end": "2019-06-25",
+  "mean_before": 0.00023588669577858387,
+  "mean_after": 0.00018013895842009615,
+  "daily_impact_pct": -0.005574773735848772,
+  "price_impact_usd": -0.0027739351394033833,
+  "converged": true
+}
